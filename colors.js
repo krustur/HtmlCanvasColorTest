@@ -15,12 +15,20 @@ var mygradients = [
         new GradientEntry(1, 255, 0, 0)
     ],
     [
-        new GradientEntry(0, 255, 255, 255),
+        // new GradientEntry(0, 255, 255, 255),
+        // new GradientEntry(0, 0, 0, 0),
+        new GradientEntry(0.75, 255, 255, 0),
         new GradientEntry(1, 0, 255, 0)
     ],
     [
-        new GradientEntry(0, 255, 255, 255),
-        new GradientEntry(1, 0, 0, 255)
+        // new GradientEntry(0, 255, 255, 255),
+        new GradientEntry(0.63, 255, 0, 255),
+        new GradientEntry(1, 255, 255, 0),
+    ],
+    [
+        // new GradientEntry(0, 255, 255, 255),
+        //  new GradientEntry(0.63, 255, 0, 255),
+        new GradientEntry(1, 0, 0, 255),
     ]
 ]
 
